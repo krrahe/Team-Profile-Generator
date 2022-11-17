@@ -1,0 +1,28 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Challenge for week ten of bootcamp, object ordinated programing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krrahe/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krrahe/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/krrahe/Team-Profile-Generator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "i": "^0.3.7",
+    "inquirer": "^8.2.4"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}
