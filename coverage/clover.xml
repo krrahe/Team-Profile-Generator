@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1677500307151" clover="3.2.0">
-  <project timestamp="1677500307152" name="All files">
+<coverage generated="1677503765221" clover="3.2.0">
+  <project timestamp="1677503765221" name="All files">
     <metrics statements="30" coveredstatements="26" conditionals="10" coveredconditionals="8" methods="11" coveredmethods="9" elements="51" coveredelements="43" complexity="0" loc="30" ncloc="30" packages="1" files="4" classes="4"/>
     <file name="employee.js" path="C:\Users\Riley\Bootcamp\Team-Profile-Generator\lib\employee.js">
       <metrics statements="14" coveredstatements="12" conditionals="6" coveredconditionals="6" methods="5" coveredmethods="3"/>
-      <line num="3" count="15" type="cond" truecount="2" falsecount="0"/>
-      <line num="4" count="2" type="stmt"/>
+      <line num="3" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
       <line num="6" count="13" type="cond" truecount="2" falsecount="0"/>
       <line num="7" count="2" type="stmt"/>
       <line num="9" count="11" type="cond" truecount="2" falsecount="0"/>
