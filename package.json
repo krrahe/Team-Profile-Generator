@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "Challenge for week ten of bootcamp, object ordinated programing",
   "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --verbose --coverage"
   },
   "repository": {
     "type": "git",
@@ -20,9 +24,10 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "i": "^0.3.7",
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.5",
+    "node": "^19.6.1"
   },
-  "directories": {
-    "test": "tests"
+  "devDependencies": {
+    "jest": "^24.9.0"
   }
 }
